@@ -121,6 +121,8 @@ let staticStyles = {
   'bg-no-repeat': { backgroundRepeat: 'no-repeat' },
   'bg-repeat-x': { backgroundRepeat: 'repeat-x' },
   'bg-repeat-y': { backgroundRepeat: 'repeat-y' },
+  'bg-repeat-round': { backgroundRepeat: 'round' },
+  'bg-repeat-space': { backgroundRepeat: 'space' },
 
   // https://tailwindcss.com/docs/border-style
   'border-solid': { borderStyle: 'solid' },
