@@ -1,14 +1,21 @@
 let staticStyles = {
   // https://tailwindcss.com/docs/display
+  hidden: { display: 'none' },
   block: { display: 'block' },
   'inline-block': { display: 'inline-block' },
   inline: { display: 'inline' },
   flex: { display: 'flex' },
   'inline-flex': { display: 'inline-flex' },
+  grid	: { display: 'grid' },
   table: { display: 'table' },
-  'table-row': { display: 'table-row' },
+  'table-caption': { display: 'table-caption' },
   'table-cell': { display: 'table-cell' },
-  hidden: { display: 'none' },
+  'table-column': { display: 'table-column' },
+  'table-column-group': { display: 'table-column-group' },
+  'table-footer-group': { display: 'table-footer-group' },
+  'table-header-group': { display: 'table-header-group' },
+  'table-row-group': { display: 'table-row-group' },
+  'table-row': { display: 'table-row' },
 
   // https://tailwindcss.com/docs/float
   'float-right': { float: 'right' },
