@@ -128,6 +128,7 @@ let staticStyles = {
   'border-solid': { borderStyle: 'solid' },
   'border-dashed': { borderStyle: 'dashed' },
   'border-dotted': { borderStyle: 'dotted' },
+  'border-double': { borderStyle: 'double' },
   'border-none': { borderStyle: 'none' },
 
   // https://tailwindcss.com/docs/flexbox-direction
